@@ -1,0 +1,72 @@
+#menu{
+    float:initial;
+}
+#menuLeft{
+    float: left;
+}
+.menuRight{
+    margin-left: 30%;
+}
+
+#inputSearch{
+    width: 400px;
+}
+.cart{
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+}
+.card{
+    width: 100%;
+    height: 500px;
+}
+.header{
+    width: 100%;
+    height: 300px;
+}
+.image{
+    width: 100%;
+    height: 250px;
+}
+.footerCard{
+    width: 100%;
+    height: 70px;
+}
+.namecard{
+    text-align: center;
+}
+.contentCategory{
+    float:right;
+}
+.iconCart{
+    font-size: 24px;
+}
+.iconCart:hover{
+    color: red;
+}
+.iconSort{
+    width: 35px;
+    height: 35px;
+   
+}
+.icon-sort{
+    font-size: 22px;
+}
+.iconSort:hover{
+    width: 37px;
+    height: 37px;
+    background-color: red;
+}
+.btnOrder{
+    margin-left: 60px;
+}
+.price{
+    color: red;
+}
+.oldPrice{
+    color: black;
+}
+.addProductsFrom{
+    width:80%;
+    margin:20px;
+}
